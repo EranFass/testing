@@ -13,3 +13,6 @@ Vagrant.configure("2") do |config|
     shell.path = "jenkins.sh"
   end
 end
+
+
+END END
