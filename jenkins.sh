@@ -27,3 +27,6 @@ JENKINSPWD=$(sudo cat /var/lib/jenkins/secrets/initialAdminPassword)
 echo $JENKINSPWD
 
 END END
+
+
+change
